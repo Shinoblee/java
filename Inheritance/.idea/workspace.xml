@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6a43d59-f695-40e2-8e7d-bda481f5a01f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Inheritance" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XUz7qoqlMLy6yBgwrhMzG3wbKu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.shinoblee.Main" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a43d59-f695-40e2-8e7d-bda481f5a01f" name="Default Changelist" comment="" />
+      <created>1581115296270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581115296270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="767" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1581284250918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="767" y="276" key="#com.intellij.ide.util.MemberChooser/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581284250918" />
+    <state width="1580" height="294" key="GridCell.Tab.0.bottom" timestamp="1581285525042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1580" height="294" key="GridCell.Tab.0.bottom/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581285525042" />
+    <state width="1580" height="294" key="GridCell.Tab.0.center" timestamp="1581285525042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1580" height="294" key="GridCell.Tab.0.center/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581285525042" />
+    <state width="1580" height="294" key="GridCell.Tab.0.left" timestamp="1581285525042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1580" height="294" key="GridCell.Tab.0.left/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581285525042" />
+    <state width="1580" height="294" key="GridCell.Tab.0.right" timestamp="1581285525042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1580" height="294" key="GridCell.Tab.0.right/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581285525042" />
+    <state x="658" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1581283843491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="658" y="384" key="com.intellij.ide.util.TipDialog/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581283843491" />
+    <state x="625" y="310" key="search.everywhere.popup" timestamp="1581199306743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="310" key="search.everywhere.popup/3840.0.1536.864/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581199306743" />
+  </component>
+</project>
